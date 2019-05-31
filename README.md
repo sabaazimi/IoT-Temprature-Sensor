@@ -1,1 +1,1 @@
-# Lab6
+# Temp Sensor
